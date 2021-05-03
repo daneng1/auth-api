@@ -5,7 +5,7 @@
 ### Links and Resources
 
 - [ci/cd](https://github.com/daneng1/auth-api/actions)
-- [back-end server url](https://danengel-api-server.herokuapp.com/)
+- [back-end server url](https://danengel-auth-api.herokuapp.com/)
 
 
 ### Setup
@@ -14,7 +14,7 @@
 
 1. Go to Swagger Inspector
 1. Enter https://danengel-auth-api.herokuapp.com/signup as POST
-1. In Body, enter { "username": "dan", "password": "dan"}
+1. In Body, enter { "username": "whatever", "password": "whatever"}
 1. Click Send, this will create a new user. You should see the user object below.
 
 #### Sign In
